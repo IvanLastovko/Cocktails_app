@@ -1,6 +1,6 @@
-# cocktails_app
+# iCocktail (I am working on a better name)
 
-A new Flutter project.
+Fun application which will work great for a party or when you want to try something new
 
 ## Getting Started
 
